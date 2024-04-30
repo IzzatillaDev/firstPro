@@ -23,6 +23,10 @@ const Table = ({headers, body}) => {
                                         <td></td>
                                         {/* {headers?.map((header, i) => {
                                             return <td key={i}>{item[header.value]}</td>
+                                            return <td key={i}>{item[header.value]}</td>
+                                            return <td key={i}>{item[header.value]}</td>
+                                            return <td key={i}>{item[header.value]}</td>
+                                            return <td key={i}>{item[header.value]}</td>
                                         })} */}
                                     </tr>
                                 })
